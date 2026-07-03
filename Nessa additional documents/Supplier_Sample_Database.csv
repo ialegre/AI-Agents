@@ -1,0 +1,25 @@
+﻿supplier_id,supplier_name,product_category,product_name,current_unit_price,unit,standard_lead_time_days,volume_discount_threshold,discount_percentage,notes,account_manager,last_price_increase,account_manager_email
+SUP-001,Greenfield Farms,Produce,Organic Mixed Greens,4.5,lb,1,50 lbs,8%,Seasonal variation ±15%. Winter premium. Peak season May-Aug.,Mercedes,2024-01-15,Mercedes@nessarestaurants.com
+SUP-001,Greenfield Farms,Produce,Heirloom Tomatoes,6,lb,1,30 lbs,10%,Summer only. Excellent for special menus.,Mercedes,2024-03-10,Mercedes@nessarestaurants.com
+SUP-001,Greenfield Farms,Produce,Root Vegetables Mix,3.2,lb,2,75 lbs,12%,Year-round available. Consistent quality.,Mercedes,2024-02-20,Mercedes@nessarestaurants.com
+SUP-002,Prime Cuts Beef,Meat,USDA Prime Ribeye,28.5,lb,2,25 lbs,5%,Aged 28 days. Premium marbling. High demand.,Carlos,2024-02-01,Carlos@nessarestaurants.com
+SUP-002,Prime Cuts Beef,Meat,Grass-Fed Ground Beef,18,lb,1,40 lbs,7%,Consistent lean ratio 85/15. Reliable supplier.,Carlos,2024-01-20,Carlos@nessarestaurants.com
+SUP-002,Prime Cuts Beef,Meat,Dry Aged NY Strip,32,lb,3,20 lbs,6%,Custom aging available. Request lead time.,Carlos,2024-03-05,Carlos@nessarestaurants.com
+SUP-003,Atlantic Seafood Co,Seafood,Wild Halibut Fillets,22,lb,2,15 lbs,9%,Daily availability variable. Order by 2 PM previous day.,Sofia,2024-02-28,Sofia@nessarestaurants.com
+SUP-003,Atlantic Seafood Co,Seafood,Diver Scallops,24.5,lb,1,10 lbs,10%,Premium grade. High value item.,Sofia,2024-01-10,Sofia@nessarestaurants.com
+SUP-003,Atlantic Seafood Co,Seafood,Chilean Sea Bass,19.5,lb,2,20 lbs,8%,Sustainable source. Year-round stable supply.,Sofia,2024-03-15,Sofia@nessarestaurants.com
+SUP-004,Valle del Duero,Dairy & Cheese,Manchego DOP,16,lb,7,10 lbs,12%,Spanish import. Bulk discount improves margin.,James,2024-01-25,James@nessarestaurants.com
+SUP-004,Valle del Duero,Dairy & Cheese,Fresh Ricotta,8.5,lb,1,30 lbs,15%,Made to order. Highest quality. Margin sensitive.,James,2024-02-10,James@nessarestaurants.com
+SUP-004,Valle del Duero,Dairy & Cheese,Burrata,14,lb,2,15 lbs,10%,Italian import. Summer peak demand.,James,2024-03-20,James@nessarestaurants.com
+SUP-005,Sunset Vineyard,Wine & Spirits,Rioja Reserva 2018,9.5,bottle,7,50 bottles,18%,Premium label. Negotiable on bulk orders.,Miguel,2024-01-05,Miguel@nessarestaurants.com
+SUP-005,Sunset Vineyard,Wine & Spirits,Albariño DO 2023,7.5,bottle,5,100 bottles,20%,White wine. High volume discount available.,Miguel,2024-02-14,Miguel@nessarestaurants.com
+SUP-005,Sunset Vineyard,Wine & Spirits,Tempranillo Table Wine,5,bottle,3,250 bottles,25%,House wine. Best discount for volume.,Miguel,2024-03-01,Miguel@nessarestaurants.com
+SUP-006,Artisan Bakery Co,Bread & Pastry,Sourdough Rounds,2.5,unit,1,50 units,5%,Daily delivery. Fresh baked.,Emma,2024-02-20,Emma@nessarestaurants.com
+SUP-006,Artisan Bakery Co,Bread & Pastry,Croissant Sheets,3.25,sheet,1,20 sheets,8%,Laminated butter. Consistent quality.,Emma,2024-01-30,Emma@nessarestaurants.com
+SUP-006,Artisan Bakery Co,Bread & Pastry,Focaccia Rosemary,3,sheet,1,30 sheets,10%,Specialty item. Seasonal herbs.,Emma,2024-03-12,Emma@nessarestaurants.com
+SUP-007,Spice House International,Spices & Dry Goods,Saffron Threads,45,gram,14,5 grams,5%,Premium grade. Long shelf life.,Ahmed,2024-02-05,Ahmed@nessarestaurants.com
+SUP-007,Spice House International,Spices & Dry Goods,Smoked Paprika,12.5,lb,7,2 lbs,8%,Spanish source. Consistent flavor.,Ahmed,2024-01-15,Ahmed@nessarestaurants.com
+SUP-007,Spice House International,Spices & Dry Goods,Black Truffle Oil,35,bottle,10,2 bottles,15%,Limited supply. Advance ordering required.,Ahmed,2024-03-08,Ahmed@nessarestaurants.com
+SUP-008,Mountain Spring Water,Beverages,Sparkling Water 1L,1.25,bottle,3,200 bottles,20%,Eco-friendly bottles. High volume discount.,James,2024-02-10,James@nessarestaurants.com
+SUP-008,Mountain Spring Water,Beverages,Filtered Water 5L,3.5,container,2,30 containers,12%,Service contract available. Bulk buy recommended.,James,2024-01-28,James@nessarestaurants.com
+SUP-008,Mountain Spring Water,Beverages,Sparkling Citrus Mix,2,bottle,4,150 bottles,18%,Specialty item. Seasonal availability.,James,2024-03-03,James@nessarestaurants.com
